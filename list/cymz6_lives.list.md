@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**
+# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | 深圳卫视 | IPv4 直链 | <http://123.129.70.178:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Nov 27 2025 01:51:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 27 2025 03:14:43 GMT+0000 (Coordinated Universal Time)**
